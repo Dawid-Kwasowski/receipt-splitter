@@ -1,4 +1,4 @@
-# quotes
+# Receipt-Splitter
 
 A new Flutter project.
 
